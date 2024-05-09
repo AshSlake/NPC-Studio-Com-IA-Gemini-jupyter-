@@ -28,4 +28,11 @@ logo gemini logo react logo nodejs
 Inicie o servidor backend: npm run start:backend (ou yarn start:backend)
 Inicie o frontend: npm run start:frontend (ou yarn start:frontend)
 
+## Autor
+
+<div>
+  <a href="https://github.com/AshSlake/"><img src="https://img.shields.io/badge/github-3b4c52.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+
  
