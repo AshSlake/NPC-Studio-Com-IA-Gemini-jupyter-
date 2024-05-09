@@ -14,7 +14,7 @@ O NPC Studio é uma ferramenta revolucionária que capacita os Mestres de RPG co
 
 Experimente o NPC Studio hoje e revolucione a forma como você cria e interpreta NPCs em suas campanhas de RPG!
 
-# **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://logospng.org/download/google-gemini/google-gemini-256.png" alt="logo gemini" width="150">
