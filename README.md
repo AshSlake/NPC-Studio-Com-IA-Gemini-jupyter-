@@ -2,15 +2,6 @@
   <img src="https://i.pinimg.com/736x/98/c7/e5/98c7e5317525b6e5d6711617f5cf0acb.jpg" alt="logo npc-studio" width="150" class="rounded-profile">
 </div>
 
-<style>
-   rounded-profile {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-  }
-</style>
-
 # NPC Studio: Com IA Gemini
 
 O NPC Studio é uma ferramenta revolucionária que capacita os Mestres de RPG com a poderosa IA do Gemini para criar NPCs envolventes e memoráveis para suas campanhas. Com esta ferramenta inovadora, você pode:
