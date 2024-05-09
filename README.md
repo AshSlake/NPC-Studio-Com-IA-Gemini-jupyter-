@@ -3,13 +3,14 @@
 </div>
 
 <style>
-  .rounded-profile {
+   rounded-profile {
     border-radius: 50%;
     width: 150px;
     height: 150px;
     object-fit: cover;
   }
 </style>
+
 # NPC Studio: Com IA Gemini
 
 O NPC Studio é uma ferramenta revolucionária que capacita os Mestres de RPG com a poderosa IA do Gemini para criar NPCs envolventes e memoráveis para suas campanhas. Com esta ferramenta inovadora, você pode:
