@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;">
- <img src="" alt="logo gemini" width="150">
+ <img src="" alt="logo npc-studio" width="150">
 </div>
 
 
