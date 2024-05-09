@@ -1,4 +1,4 @@
-![Logo NPC Studio](images/Logo%20Npc_studio.jpeg width="256" height="150")  
+![Logo NPC Studio](https://github.com/AshSlake/NPC-Studio-Com-IA-Gemini/blob/main/Logo%20Npc_studio.jpeg width="256" height="150")  
 
 # NPC Studio: Com IA Gemini
 
