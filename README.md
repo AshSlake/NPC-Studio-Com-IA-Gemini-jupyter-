@@ -4,6 +4,13 @@ O NPC Studio é uma ferramenta revolucionária que utiliza a poderosa IA do Gemi
 # Principais Recursos
 **Geração de NPC Instantânea**: Crie NPCs únicos com personalidades, histórias de fundo e motivações distintas com apenas alguns cliques.
 
+# **Tecnologias Utilizadas**
+
+<div align="center">
+  <img src="https://logospng.org/download/google-gemini/google-gemini-256.png" alt="logo gemini" width="150" style="margin-right: 20px;">
+</div>
+<br>
+
 **Personalização Avançada**: Personalize a aparência, habilidades, equipamentos e traços de personalidade dos seus NPCs para se adequarem perfeitamente à sua campanha.
 **Insights de Interpretação**: Receba sugestões sobre como interpretar seus NPCs de forma convincente, incluindo dicas de diálogo e manobras de combate.
 **Integração com a Comunidade**: Compartilhe e baixe NPCs criados por outros usuários para expandir sua biblioteca de personagens.
@@ -12,10 +19,8 @@ logo gemini logo react logo nodejs
 
 **Externo**:
 - Gemini
-- Frontend:
-- React
-- Backend:
-- Node.js
+- javascript
+- AndroidStudio
 
 **- Pré-requisitos**
 - Node.js v18 ou superior
