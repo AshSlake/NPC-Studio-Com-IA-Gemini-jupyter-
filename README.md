@@ -27,7 +27,7 @@ Experimente o NPC Studio hoje e revolucione a forma como você cria e interpreta
 - javascript
 - AndroidStudio
 
-**- Pré-requisitos para testes**
+**Pré-requisitos para testes**
 - baixar o apk 
 - Testar no Colab
 - Testar no Firebase Test Lab
