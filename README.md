@@ -23,16 +23,10 @@ O NPC Studio é uma ferramenta revolucionária que utiliza a poderosa IA do Gemi
 - javascript
 - AndroidStudio
 
-**- Pré-requisitos**
-- Node.js v18 ou superior
-- npm ou yarn
-- Configuração do Projeto
-- Clone o repositório: git clone https://github.com/victorverdoodt/NPC-Studio.git
-- Instale as dependências: npm install (ou yarn install)
-
-**Executando o Projeto**
-Inicie o servidor backend: npm run start:backend (ou yarn start:backend)
-Inicie o frontend: npm run start:frontend (ou yarn start:frontend)
+**- Pré-requisitos para testes**
+- baixar o apk 
+- Testar no Colab
+- Testar no Firebase Test Lab
 
 ## Autor
 
