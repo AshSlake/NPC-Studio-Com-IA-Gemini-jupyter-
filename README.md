@@ -1,7 +1,7 @@
- #NPC Studio: Com IA Gemini
+# NPC Studio: Com IA Gemini
 O NPC Studio é uma ferramenta revolucionária que utiliza a poderosa IA do Gemini para ajudar os Mestres de RPG a criar NPCs envolventes e memoráveis para suas campanhas. Com esta ferramenta, você pode gerar NPCs instantaneamente, personalizar suas características e obter insights para interpretar seus personagens de forma autêntica.
 
-#Principais Recursos
+# Principais Recursos
 **Geração de NPC Instantânea**: Crie NPCs únicos com personalidades, histórias de fundo e motivações distintas com apenas alguns cliques.
 **Personalização Avançada**: Personalize a aparência, habilidades, equipamentos e traços de personalidade dos seus NPCs para se adequarem perfeitamente à sua campanha.
 **Insights de Interpretação**: Receba sugestões sobre como interpretar seus NPCs de forma convincente, incluindo dicas de diálogo e manobras de combate.
