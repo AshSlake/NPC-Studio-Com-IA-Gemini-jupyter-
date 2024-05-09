@@ -1,6 +1,4 @@
-![Logo NPC Studio](Logo%20Npc_studio.jpeg width="256" height="150")
-
-
+![Logo NPC Studio](images/Logo%20Npc_studio.jpeg width="256" height="150")  
 
 # NPC Studio: Com IA Gemini
 
