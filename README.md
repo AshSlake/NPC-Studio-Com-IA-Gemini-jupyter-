@@ -17,6 +17,8 @@ O NPC Studio é uma ferramenta revolucionária que utiliza a poderosa IA do Gemi
 </div>
 <img src="https://logospng.org/download/javascript/logo-javascript-256.png" alt="logo java" width="150" style="margin-right: 20px;]">
 </div>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="logo studio" width="150" style="margin-right: 20px;]">
+</div>
 <br>
 
 **Externo**:
