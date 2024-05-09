@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center;">
- <img src="" alt="logo npc-studio" width="150">
-</div>
+![logo npc-studio](https://github.com/AshSlake/NPC-Studio-Com-IA-Gemini/blob/main/Logo%20Npc_studio.jpeg)
 
 
 # NPC Studio: Com IA Gemini
