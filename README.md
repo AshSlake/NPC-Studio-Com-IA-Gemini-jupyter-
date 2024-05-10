@@ -30,6 +30,7 @@ Experimente o NPC Studio hoje e revolucione a forma como você cria e interpreta
 - [ ] Interface principal;
 - [ ] Funcionalidade de os NPCs;
 - [ ] Configurar Aparência do NPC ;
+- [ ] Adicionar habilidades ao NPC ;
 - [ ] Exportar NPC.
 ---
 
