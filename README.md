@@ -26,6 +26,13 @@ Experimente o NPC Studio hoje e revolucione a forma como você cria e interpreta
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="logo studio" width="150">
 </div>
 
+- Status do projeto:
+- [ ] Interface principal;
+- [ ] Funcionalidade de os NPCs;
+- [ ] Configurar Aparência do NPC ;
+- [ ] Exportar NPC.
+---
+
 **Externo**:
 - Gemini
 - javascript
