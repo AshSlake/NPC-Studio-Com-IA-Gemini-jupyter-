@@ -38,6 +38,12 @@ Experimente o NPC Studio hoje e revolucione a forma como você cria e interpreta
 - [x] Funcionalidade de os NPCs;
 - [x] Adicionar habilidades ao NPC ;
 - [x] Exportar NPC.
+
+# link do projeto do app android:
+
+<div>
+  <a href="https://github.com/AshSlake/NPC_STUDIO/tree/master"><img src="https://img.shields.io/badge/github-3b4c52.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</div> 
 ---
 
 **Externo**:
