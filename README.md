@@ -23,7 +23,7 @@ Experimente o NPC Studio hoje e revolucione a forma como você cria e interpreta
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://tmpfiles.nohat.cc/m2H7K9d3N4Z5i8G6.png" alt="logo gemini" width="150">
   <img src="https://logospng.org/download/google-gemini/google-gemini-256.png" alt="logo gemini" width="150">
-  <img src="https://logospng.org/download/javascript/logo-javascript-256.png" alt="logo java" width="150">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="logo java" width="150">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="logo studio" width="150">
 </div>
 
